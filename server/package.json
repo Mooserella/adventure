@@ -2,8 +2,8 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
-  "main":".\\build\\index",
-  "types":".\\build\\index",
+  "main": ".\\build\\index",
+  "types": ".\\build\\index",
   "dependencies": {
     "restify": "^4.3.0"
   },
